@@ -121,7 +121,7 @@ For more information see the [Code of Conduct FAQ](https://aws.github.io/code-of
 If you discover a potential security issue in this project we ask that you notify AWS/Amazon Security via our [vulnerability reporting page](http://aws.amazon.com/security/vulnerability-reporting/). Please do **not** create a public github issue.
 
 ## Troubleshooting
-
+If your organization blocks access to public image repositories, modify the CdkStack code locally to use internal artifactory URL
 
 ## Licensing
 
